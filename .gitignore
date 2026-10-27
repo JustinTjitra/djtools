@@ -5,3 +5,4 @@
 *.flac
 *.wav
 .archive.txt
+__pycache__/
